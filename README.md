@@ -51,6 +51,7 @@ Com o chat seguro, os usuários podem comunicar-se livremente, sabendo que suas 
 - [Lucas Siqueira](https://github.com/lucassiqueiraa)
 - [Altamir Junior](https://github.com/BarbaGrisalha)
 - [João Lains](https://github.com/JoaoLains)
+- [Dinis Ruivo](https://github.com/Dinisruivo03)
   
 ## Contribuição
 
