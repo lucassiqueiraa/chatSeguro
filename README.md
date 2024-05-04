@@ -2,12 +2,6 @@
 
 O Chat Seguro é uma aplicação de mensagens criptografadas desenvolvida em C# usando o Visual Studio.
 
-
-## Autores
-- [Lucas Siqueira](https://github.com/lucassiqueiraa)
-- [Altamir Junior](https://github.com/BarbaGrisalha)
-- [João Lains](https://github.com/JoaoLains)
-
 ## Funcionalidades
 
 1. **Troca de Mensagens Criptografadas**: Os usuários podem enviar e receber mensagens de texto de forma segura, garantindo que apenas o remetente e o destinatário possam ler o conteúdo das mensagens.
@@ -53,7 +47,11 @@ O chat seguro proporciona uma plataforma confiável e segura para comunicação 
 
 Com o chat seguro, os usuários podem comunicar-se livremente, sabendo que suas mensagens estão protegidas contra acesso não autorizado e garantindo a confidencialidade de suas conversas.
 
-
+## Autores
+- [Lucas Siqueira](https://github.com/lucassiqueiraa)
+- [Altamir Junior](https://github.com/BarbaGrisalha)
+- [João Lains](https://github.com/JoaoLains)
+  
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para clonar o repositório, fazer melhorias e enviar uma solicitação de pull.
